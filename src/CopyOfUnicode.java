@@ -1,6 +1,23 @@
 import java.util.UUID;
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class CopyOfUnicode {
 
 	private String Unicode2Chinese(String strUnicode)
